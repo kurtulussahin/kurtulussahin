@@ -1,4 +1,3 @@
-## Kurtuluş Şahin
   ##### - Future Software Developer
   📚 Learning Java ☕
 
