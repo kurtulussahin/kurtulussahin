@@ -1,8 +1,8 @@
-  ##### - Future Software Developer
-  📚 Learning Java ☕
-
-
-### EXPERIENCE
+### Future Software Developer
+   ##### 📚 Learning Java ☕
+<br>
+   
+### Experience
   
   ##### - Card Payment Systems Business Analyst 
   🏦 QNB Finansbank, 2019 – now - 5 Years
@@ -20,7 +20,7 @@
   ☀️ State Meteorology Service, 2007 – 2015 - 8 Years
 
 
-### EDUCATION	
+### Education	
   
   ##### - Management Information Systems 
   🏫 Boğaziçi University, 2006 –2014
