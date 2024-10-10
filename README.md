@@ -1,16 +1,29 @@
-## Hi there 👋
+## Kurtuluş Şahin
+  ##### - Future Software Developer
+  📚 Learning Java ☕
 
-<!--
-**kurtulussahin/kurtulussahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### EXPERIENCE
+  
+  ##### - Card Payment Systems Business Analyst 
+  🏦 QNB Finansbank, 2019 – now - 5 Years
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ##### - Product Manager 
+  🛒 Farmazon, 2018 – 2019 - 1 Year
+
+
+  ##### - Payment System Integration Engineer 
+  💳 iyzico, 2015 – 2018 - 3 Years
+
+
+  ##### - Wheather Forcasting Analyst 
+  ☀️ State Meteorology Service, 2007 – 2015 - 8 Years
+
+
+### EDUCATION	
+  
+  ##### - Management Information Systems 
+  🏫 Boğaziçi University, 2006 –2014
+
+  
